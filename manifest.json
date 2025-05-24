@@ -1,0 +1,15 @@
+{
+  "short_name": "Criptografia",
+  "icons": [
+    {
+      "src": "encrypted-data.png",
+      "sizes": "52x52",
+      "type": "image/png"
+    }
+  ],
+  "name": "Criptografia",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
