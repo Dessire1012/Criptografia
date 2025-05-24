@@ -43,5 +43,6 @@ npm start
 
 La app se abrirá automáticamente en tu navegador en http://localhost:3000.
 
-🤓 Autor
+## 🤓 Autor
+
 Desarrollado por Dessire Ochoa Lopez como proyecto educativo y práctico para explorar criptografía clásica en aplicaciones web modernas.
