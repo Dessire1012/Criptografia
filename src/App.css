@@ -1,38 +1,59 @@
-.App {
-  text-align: center;
+body {
+  background-color: #fdf6f0 !important;
+  font-family: "Segoe UI", sans-serif;
+  color: #3a3a3a !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+textarea,
+input,
+select {
+  font-family: monospace;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+pre {
+  white-space: pre-wrap;
+  word-break: break-word;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card {
+  background-color: #fff7f7 !important;
+  border: none;
+  border-radius: 0.75rem;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
 }
 
-.App-link {
-  color: #61dafb;
+.card-header {
+  background-color: #ffc8dd !important;
+  border-bottom: none;
+  font-weight: bold;
+  font-size: 1.2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card-body {
+  background-color: #fff !important;
+  border-radius: 0 0 0.75rem 0.75rem;
+}
+
+.btn-primary {
+  background-color: #a2d2ff !important;
+  border: none;
+  color: #3a3a3a !important;
+}
+
+.btn-primary:hover {
+  background-color: #90caff !important;
+}
+
+.btn-secondary {
+  background-color: #ffc8dd !important;
+  border: none;
+  color: #3a3a3a !important;
+}
+
+.btn-secondary:hover {
+  background-color: #fcbad3 !important;
+}
+
+label {
+  font-weight: 600;
 }
