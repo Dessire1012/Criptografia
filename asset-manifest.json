@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Criptografia/public/static/css/main.f617a925.css",
-    "main.js": "/Criptografia/public/static/js/main.1275a465.js",
-    "index.html": "/Criptografia/public/index.html",
-    "main.f617a925.css.map": "/Criptografia/public/static/css/main.f617a925.css.map",
-    "main.1275a465.js.map": "/Criptografia/public/static/js/main.1275a465.js.map"
+    "main.css": "/Criptografia/static/css/main.f617a925.css",
+    "main.js": "/Criptografia/static/js/main.1275a465.js",
+    "index.html": "/Criptografia/index.html",
+    "main.f617a925.css.map": "/Criptografia/static/css/main.f617a925.css.map",
+    "main.1275a465.js.map": "/Criptografia/static/js/main.1275a465.js.map"
   },
   "entrypoints": [
     "static/css/main.f617a925.css",
